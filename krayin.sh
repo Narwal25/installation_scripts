@@ -74,7 +74,6 @@ clone_krayin_repo() {
     chown -R krayin:krayin /home/krayin
     
     cd /home/krayin/ || exit
-    git clone -b  https://github.com/krayin/laravel-crm.git
     git clone -b $KRAYIN_VERSION $KRAYIN_REPO
     cd laravel-crm || exit
     
