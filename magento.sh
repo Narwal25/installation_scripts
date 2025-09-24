@@ -17,7 +17,7 @@ USE_CUSTOM_USER=False
 # Custom user/group/path (used only if USE_CUSTOM_USER=True)
 CUSTOM_WEB_USER="pardeep.narwal"
 CUSTOM_WEB_GROUP="wuser"
-CUSTOM_MAGENTO_PATH="/home/users/pradeep.narwal/magento"
+CUSTOM_MAGENTO_PATH="/home/users/pardeep.narwal/magento"
 
 # Defaults (used if USE_CUSTOM_USER=False)
 DEFAULT_WEB_USER="www-data"
